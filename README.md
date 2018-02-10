@@ -1,3 +1,3 @@
 # SmallC
 
-Hopefully a 64bit version of Hendrix' SmallC
+Will hopefully become a 64bit version of Hendrix' SmallC
